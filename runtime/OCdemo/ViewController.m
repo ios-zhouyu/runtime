@@ -25,7 +25,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
+    self.view.backgroundColor = [UIColor grayColor];
     //分类添加属性
 //    [self addPropertyForCategory];
     
